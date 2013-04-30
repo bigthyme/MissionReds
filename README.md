@@ -3,4 +3,5 @@ Mission Reds
 
 This is the main repo!!!
 
-Chad-topBar
+chad & seung: first page
+tyson: content
