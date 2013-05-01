@@ -1,2 +1,33 @@
 /* Styling for Website */
+header {
+  border: 1px solid black;
+}
+.logo {
+  
+  border: 1px solid black;
+  height: 50px;
+}
+.nav-bar {
 
+}
+.nav-bar li {
+
+}
+body {
+
+}
+.projects {
+
+}
+.projects .featured-project {
+
+}
+.projects .other-1 {
+
+}
+.main {
+
+}
+.main li {
+
+}
